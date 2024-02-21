@@ -1,6 +1,6 @@
 # Calculadora de Cuotas de Deuda
 
-Este repositorio contiene los archivos de una aplicación web diseñada para calcular las cuotas restantes de una deuda con un determinado porcentaje de intereses.
+Este repositorio contiene los archivos de una aplicación web diseñada en PHP para calcular las cuotas restantes de una deuda con un determinado porcentaje de intereses.
 
 ## Funcionalidades
 
@@ -16,7 +16,7 @@ Este repositorio contiene los archivos de una aplicación web diseñada para cal
 git clone https://github.com/tu-usuario/nombre-repositorio.git
 ```
 
-2. **Abrir el Archivo HTML:** Una vez clonado el repositorio, abre el archivo `index.html` en tu navegador web preferido.
+2. **Abrir el Archivo PHP:** Una vez clonado el repositorio, abre el archivo `index.php` en tu navegador web preferido.
 
 3. **Ingresar los Datos:** Completa los campos requeridos con la información de la deuda y las cuotas ya pagadas.
 
@@ -30,8 +30,8 @@ git clone https://github.com/tu-usuario/nombre-repositorio.git
 
 ## Autor
 
-Esta aplicación fue desarrollada por [Tu Nombre](https://github.com/tu-usuario), y es distribuida bajo la licencia [MIT](LICENSE). Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto.
+Esta aplicación fue desarrollada por [ReynerMejias](https://github.com/ReynerMejias). Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto.
 
 ---
 
-¡Esperamos que esta aplicación te sea útil! Si encuentras algún problema o tienes alguna sugerencia de mejora, no dudes en hacérnoslo saber. ¡Gracias por usar nuestra calculadora de cuotas de deuda!
+¡Espero que esta aplicación te sea útil! Si encuentras algún problema o tienes alguna sugerencia de mejora, no dudes en hacérmelo saber. ¡Gracias por usar mi calculadora de cuotas de deuda!
