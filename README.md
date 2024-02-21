@@ -13,7 +13,7 @@ Este repositorio contiene los archivos de una aplicación web diseñada en PHP p
 1. **Clonar el Repositorio:** Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-repositorio.git
+git clone https://github.com/ReynerMejias/calculadora-coutas.git
 ```
 
 2. **Abrir el Archivo PHP:** Una vez clonado el repositorio, abre el archivo `index.php` en tu navegador web preferido.
